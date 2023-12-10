@@ -1,0 +1,87 @@
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\appsettings.json
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.exe
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.deps.json
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.runtimeconfig.json
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.runtimeconfig.dev.json
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.dll
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.pdb
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\MongoDB.Bson.dll
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\Common.dll
+D:\VS\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\Common.pdb
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.AssemblyReference.cache
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.AssemblyInfoInputs.cache
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.AssemblyInfo.cs
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.CoreCompileInputs.cache
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.MvcApplicationPartsAssemblyInfo.cache
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Manifest.cache
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Pack.cache
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.SyncNode.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.SyncNode.props
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SyncNode.props
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SyncNode.props
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.RazorTargetAssemblyInfo.cache
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.CopyComplete
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.dll
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.pdb
+D:\VS\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.genruntimeconfig.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.exe
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.deps.json
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.runtimeconfig.json
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.runtimeconfig.dev.json
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.dll
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.pdb
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\Common.dll
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\Common.pdb
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.AssemblyReference.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.AssemblyInfoInputs.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.AssemblyInfo.cs
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.CoreCompileInputs.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Manifest.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Pack.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.SyncNode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.SyncNode.props
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SyncNode.props
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SyncNode.props
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.RazorTargetAssemblyInfo.cache
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.CopyComplete
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.dll
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.pdb
+C:\Users\raghi\Downloads\Telegram Desktop\SmartProxyPAD\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.genruntimeconfig.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.exe
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.deps.json
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.runtimeconfig.json
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.runtimeconfig.dev.json
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.dll
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\SyncNode.pdb
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\Common.dll
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\bin\Release\netcoreapp3.1\Common.pdb
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.AssemblyReference.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.AssemblyInfoInputs.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.AssemblyInfo.cs
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.CoreCompileInputs.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Manifest.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Pack.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.SyncNode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.SyncNode.props
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SyncNode.props
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SyncNode.props
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.RazorTargetAssemblyInfo.cache
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.csproj.CopyComplete
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.dll
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.pdb
+C:\Users\raghi\Desktop\SmartProxyPAD\SyncNode\obj\Release\netcoreapp3.1\SyncNode.genruntimeconfig.cache

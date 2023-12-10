@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUqvxTxRr6mOHWAkNvELE+73oP1Ee6R79pnP6LByZn/L9lmJRl1N24Aa8rpQBBYvTBbEZKTghR4eXcXZjZ3V/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raghi\\Desktop\\ANUL-IV\\PAD\\SmartProxyPAD\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raghi\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\raghi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\raghi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\raghi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\raghi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\raghi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
